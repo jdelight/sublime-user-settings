@@ -1,0 +1,1925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"settings"
+			],
+			[
+				"sg",
+				"signalFixtures"
+			],
+			[
+				"sig",
+				"signalsBubble"
+			],
+			[
+				"red",
+				"render"
+			],
+			[
+				"res",
+				"resizeChart"
+			],
+			[
+				"be",
+				"bubbleEventsMap"
+			],
+			[
+				"nod",
+				"nodes"
+			],
+			[
+				"f",
+				"fn	Function"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"_a",
+				"_isArray	Underscore.js isArray"
+			],
+			[
+				"ev",
+				"eventMap"
+			],
+			[
+				"ui",
+				"uiClickAction"
+			],
+			[
+				"sb",
+				"signalsBubble"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"men",
+				"mention"
+			],
+			[
+				"bt",
+				"bgc-t	background-color: transparent;"
+			],
+			[
+				"e",
+				"e0e0e0"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"_o",
+				"_once	Underscore.js once"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"get",
+				"getCollection"
+			],
+			[
+				"Si",
+				"SignalCardMentionsListView"
+			],
+			[
+				"Mention",
+				"mentionCollection"
+			],
+			[
+				"show",
+				"showMentions"
+			],
+			[
+				"selected",
+				"selectedMode"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"find",
+				"findWhere"
+			],
+			[
+				"car",
+				"cardSpy"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"card",
+				"cardViews"
+			],
+			[
+				"sid",
+				"signalId"
+			],
+			[
+				"can",
+				"canShowMentionsFor"
+			],
+			[
+				"si",
+				"signalsMentionsHelper"
+			],
+			[
+				"me",
+				"mention"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"class",
+				"classed"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"des",
+				"deselected"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remv",
+				"removeClass"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"_find",
+				"_findWhere	Underscore.js findWhere"
+			],
+			[
+				"sign",
+				"signalId"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"exte",
+				"extended"
+			],
+			[
+				"test",
+				"testData"
+			],
+			[
+				"te",
+				"testData"
+			],
+			[
+				"de",
+				"deselect"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"_co",
+				"_contains	Underscore.js contains"
+			],
+			[
+				"cont",
+				"contract"
+			],
+			[
+				"SI",
+				"SIGNALS_BUBBLES"
+			],
+			[
+				"hand",
+				"handler"
+			],
+			[
+				"first",
+				"firstNode"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"sa",
+				"signalsBubblesChart"
+			],
+			[
+				"is",
+				"isSetup"
+			],
+			[
+				"signalsBubblesC",
+				"signalsBubblesCardList"
+			],
+			[
+				"s",
+				"signalsBubblesChart"
+			],
+			[
+				"FakeSignalsBubblesC",
+				"FakeSignalsBubblesCardList"
+			],
+			[
+				"F",
+				"FakeSignalsBubblesChart"
+			],
+			[
+				"fa",
+				"fakeChartInstance"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"set",
+				"setup"
+			],
+			[
+				"call",
+				"calledWithNew"
+			],
+			[
+				"clen",
+				"clean"
+			],
+			[
+				"cl",
+				"cleanData"
+			],
+			[
+				"impo",
+				"importantMention"
+			],
+			[
+				"bbu",
+				"bubblesChartData"
+			],
+			[
+				"ren",
+				"renderBubblesChart"
+			],
+			[
+				"rend",
+				"render"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cou",
+				"countrySpikeClean"
+			],
+			[
+				"clena",
+				"cleanData"
+			],
+			[
+				"clean",
+				"cleanData"
+			],
+			[
+				"render",
+				"renderBubblesCardList"
+			],
+			[
+				"cal",
+				"called"
+			],
+			[
+				"d",
+				"desc	BDD Describe"
+			],
+			[
+				"sigbb",
+				"signalsBubblesViewController"
+			],
+			[
+				"signals",
+				"FakeSignalsBubblesChart"
+			],
+			[
+				"tb",
+				"tb	toBe"
+			],
+			[
+				"it",
+				"it	it"
+			],
+			[
+				"cleand",
+				"cleanedData"
+			],
+			[
+				"def",
+				"defined"
+			],
+			[
+				"Sib",
+				"SignalsBubblesViewController"
+			],
+			[
+				"thb",
+				"thbcw	toHaveBeenCalledWith"
+			],
+			[
+				"sbb",
+				"signalsBubblesViewController"
+			],
+			[
+				"th",
+				"thbc	toHaveBeenCalled"
+			],
+			[
+				"tob",
+				"toBeDefined"
+			],
+			[
+				"S",
+				"SignalsBubblesChart"
+			],
+			[
+				"n",
+				"nd	not.toBeDefined"
+			],
+			[
+				"fac",
+				"fakeSignalsBubblesViewControllerSpy"
+			],
+			[
+				"SignalsBubblesV",
+				"signalsBubblesViewController"
+			],
+			[
+				"signa",
+				"SignalsBubblesChart"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"lisst",
+				"list-style-type"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"dat",
+				"dataSet2"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"_re",
+				"_reject	Underscore.js reject"
+			],
+			[
+				"data",
+				"dataumToRemove"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"_",
+				"_data"
+			],
+			[
+				"ci",
+				"circlesSelection"
+			],
+			[
+				"da",
+				"datum"
+			],
+			[
+				"new",
+				"newData"
+			],
+			[
+				"no",
+				"nodes"
+			],
+			[
+				"_l",
+				"_liveStreamCheckInterval"
+			],
+			[
+				"ge",
+				"getUserMenuOptions"
+			],
+			[
+				"u",
+				"UserMenuView"
+			],
+			[
+				"toE",
+				"toEqual"
+			],
+			[
+				"emp",
+				"empties"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"sho",
+				"showValidationError"
+			],
+			[
+				"Twe",
+				"TweetersTableView"
+			],
+			[
+				"compon",
+				"components"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jamesd/dev/frontend/public/src/views/SignalCardMentionsListView.js",
+			"settings":
+			{
+				"buffer_size": 1826,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesd/dev/frontend/public/src/helpers/signalsMentionsHelper.js",
+			"settings":
+			{
+				"buffer_size": 2517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesd/dev/frontend/public/src/models/MentionCollection.js",
+			"settings":
+			{
+				"buffer_size": 9529,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesChart.js",
+			"settings":
+			{
+				"buffer_size": 8351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesd/dev/frontend/public/src/views/SignalCardView.js",
+			"settings":
+			{
+				"buffer_size": 2831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesd/dev/frontend/public/tests/views/SignalCardMentionsListView.tests.js",
+			"settings":
+			{
+				"buffer_size": 2221,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"g",
+				"Git: Open..."
+			],
+			[
+				"go",
+				"Git: Open..."
+			],
+			[
+				"git op",
+				"Git: Open..."
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"lintop",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"GIT ",
+				"Git: Open..."
+			],
+			[
+				"GITCOM",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"CLOSE",
+				"File: Close All"
+			],
+			[
+				"GIT OPEN",
+				"Git: Open Modified Files"
+			],
+			[
+				"GIT COM",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsh",
+				"Set Syntax: HTML"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"lintc",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"local",
+				"Local History: Open"
+			],
+			[
+				"loc",
+				"Local History: Open"
+			],
+			[
+				"l",
+				"Local History: Open"
+			],
+			[
+				"gitcom",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vim",
+				"Set Syntax: Vintageous Command Line"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vin",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"comp",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"compa",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint t",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: console-log"
+			],
+			[
+				":wq",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"Finder: Open here"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/models/BaseStream.js",
+		"/Users/jamesd/dev/frontend/public/src/views/ComponentView.js",
+		"/Users/jamesd/dev/frontend/public/src/models/DataMethods.js",
+		"/Users/jamesd/dev/frontend/public/src/models/DataCollection.js",
+		"/Users/jamesd/dev/frontend/node_modules/async/component.json",
+		"/Users/jamesd/dev/frontend/node_modules/connect-memcached/lib/connect-memcached.js",
+		"/Users/jamesd/dev/frontend/public/templates/componentOptionsSummary.template",
+		"/Users/jamesd/dev/frontend/check-nfs",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesView.js",
+		"/Users/jamesd/dev/frontend/setup",
+		"/Users/jamesd/dev/frontend/node_modules/testem/node_modules/express/node_modules/connect/node_modules/formidable/test/unit/test-incoming-form.js",
+		"/Users/jamesd/dev/frontend/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-stylus/node_modules/stylus/node_modules/sax/test/trailing-attribute-no-value.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/templates/missingItemsLoader.template",
+		"/Users/jamesd/dev/frontend/support/phantomjs-1.9.7-macosx/examples/outputEncoding.js",
+		"/Users/jamesd/dev/frontend/support/phantomjs-1.9.1-macosx/examples/outputEncoding.js",
+		"/Users/jamesd/dev/frontend/public/themes/rosetta/login.css",
+		"/Users/jamesd/dev/frontend/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-snocketsify/node_modules/snockets/node_modules/uglify-js/test/unit/compress/test/assignment.js",
+		"/Users/jamesd/dev/frontend/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/Users/jamesd/dev/frontend/public/src/views/signals/TrendingAuthorSignalFlashcardView.js",
+		"/Users/jamesd/dev/frontend/public/src/formatters/twitterInsightsTableFormatters.js",
+		"/Users/jamesd/dev/frontend/public/src/views/filters/TwitterInsightsFilters.js",
+		"/Users/jamesd/dev/frontend/public/src/views/signals/TrendingStorySignalFlashcardView.js",
+		"/Users/jamesd/dev/frontend/node_modules/newrelic/test/versioned/restify-2-6-0/restify-ignoring.tap.js",
+		"/Users/jamesd/dev/frontend/node_modules/express/node_modules/connect/node_modules/multiparty/test/standalone/test-content-transfer-encoding.js",
+		"/Users/jamesd/dev/frontend/public/src/helpers/collectionSortingHelper.js",
+		"/Users/jamesd/dev/frontend/public/src/components/TwitterInsightsComponent.js",
+		"/Users/jamesd/dev/frontend/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-stylus/node_modules/stylus/node_modules/sax/test/trailing-non-whitespace.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/FacebookPageTrackingExtension.js",
+		"/Users/jamesd/dev/frontend/public/tests/extensions/TwitterInsights.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/models/TwitterInsightsControls.js",
+		"/Users/jamesd/dev/frontend/node_modules/uglify-js/node_modules/source-map/test/source-map/test-dog-fooding.js",
+		"/Users/jamesd/dev/frontend/sessions/OVTtyCIX54dMiiQ2rQlG2ntT.json",
+		"/Users/jamesd/dev/frontend/public/templates/selectTagsViewListEntries.template",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/templates/streamWarningMessage.template",
+		"/Users/jamesd/dev/frontend/node_modules/testem/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/assignment.js",
+		"/Users/jamesd/dev/frontend/public/src/models/TwitterInsights.js",
+		"/Users/jamesd/dev/frontend/node_modules/combined-stream/test/integration/test-empty-string.js",
+		"/Users/jamesd/dev/frontend/node_modules/newrelic/test/versioned-node/node-0-10-setImmediate/transaction-trace-async-propagation.tap.js",
+		"/Users/jamesd/dev/frontend/public/src/views/signals/TopSiteSignalFlashcardView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsComponentReachCloudView.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/views/StreamItemAssignmentMenuView.js",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/bower-registry-client/node_modules/bower-config/node_modules/mout/src/time/toTimeString.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsUtilsBarView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsComponentTableView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsComponentCloudView.js",
+		"/Users/jamesd/dev/frontend/node_modules/newrelic/node_modules/continuation-local-storage/test/nesting.tap.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsControlsView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/channels/twitter/TwitterInsightsContextMenu.js",
+		"/Users/jamesd/dev/frontend/public/tests/views/signals/SentimentSpikeSignalFlashcardView.tests.js",
+		"/Users/jamesd/dev/frontend/public/vendor/mustache/test/_files/nesting_same_name.txt",
+		"/Users/jamesd/dev/frontend/node_modules/combined-stream/test/integration/test-delayed-streams-and-buffers-and-strings.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/views/AssignmentStreamView.js",
+		"/Users/jamesd/dev/frontend/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/src/time/toTimeString.js",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/bower-config/node_modules/mout/src/time/toTimeString.js",
+		"/Users/jamesd/dev/frontend/node_modules/nodemon/tmp/express-boilerplate/node_modules/nodemailer/node_modules/readable-stream/test/simple/test-stream-push-strings.js",
+		"/Users/jamesd/dev/frontend/public/src/views/CreateEditLocationGroupView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/signals/SentimentSpikeSignalFlashcardView.js",
+		"/Users/jamesd/dev/frontend/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-snocketsify/node_modules/snockets/test/assets/testing.js",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/mout/src/time/toTimeString.js",
+		"/Users/jamesd/dev/frontend/test/resetPasswordForm/phillymarketingThemeSpec.js",
+		"/Users/jamesd/dev/frontend/test/resetPasswordForm/trainingThemeSpec.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/TwitterInsights.js",
+		"/Users/jamesd/dev/frontend/public/tests/views/DefaultQuerySettingsView.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/views/DefaultQuerySettingsView.js",
+		"/Users/jamesd/dev/frontend/public/css/defaultQuerySettingsView.css",
+		"/Users/jamesd/dev/frontend/public/tests/views/AlertMainSettingsView.tests.js",
+		"/Users/jamesd/dev/frontend/public/templates/defaultQuerySettings.template",
+		"/Users/jamesd/dev/frontend/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/decompress/node_modules/adm-zip/.idea/scopes/scope_settings.xml",
+		"/Users/jamesd/dev/frontend/node_modules/optipng-bin/node_modules/bin-build/node_modules/download/node_modules/decompress/node_modules/adm-zip/.idea/scopes/scope_settings.xml",
+		"/Users/jamesd/dev/frontend/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/decompress/node_modules/adm-zip/.idea/scopes/scope_settings.xml",
+		"/Users/jamesd/dev/frontend/public/src/views/AlertMainSettingsView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/pages/ProjectSettingsPageView.js",
+		"/Users/jamesd/dev/frontend/public/templates/alertMainSettings.template",
+		"/Users/jamesd/dev/frontend/public/vendor/ace/lib/ace/ext/menu_tools/generate_settings_menu.js",
+		"/Users/jamesd/dev/frontend/public/tests/views/AlertSettingsPopup.tests.js",
+		"/Users/jamesd/dev/frontend/public/templates/pages/projectSettings.template",
+		"/Users/jamesd/dev/frontend/public/tests/views/RuleSettingsView.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/views/AlertSettingsPopup.js",
+		"/Users/jamesd/dev/frontend/public/src/views/RuleSettingsView.js",
+		"/Users/jamesd/dev/frontend/public/css/alertSettingsPopup.css",
+		"/Users/jamesd/dev/frontend/node_modules/connect-memcached/node_modules/memcached/examples/simple_settings.js",
+		"/Users/jamesd/dev/frontend/themes/domainSettings.json",
+		"/Users/jamesd/dev/frontend/public/vendor/ace/lib/ace/ext/menu_tools/settings_menu.css",
+		"/Users/jamesd/dev/frontend/public/templates/ruleSettingsView.template",
+		"/Users/jamesd/dev/frontend/public/templates/alertSettings.template",
+		"/Users/jamesd/dev/frontend/public/css/ruleSettingsView.css",
+		"/Users/jamesd/dev/frontend/lib/domainSettings.js",
+		"/Users/jamesd/dev/frontend/public/vendor/ace/lib/ace/ext/settings_menu.js",
+		"/Users/jamesd/dev/frontend/public/vendor/ace/demo/settings_menu.html",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/cardinal/test/settings.js",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/cardinal/settings.js",
+		"/Users/jamesd/dev/frontend/node_modules/wd/browser-scripts/safe-execute.js",
+		"/Users/jamesd/dev/frontend/public/tests/models/fixtures/signals.fixtures.js",
+		"/Users/jamesd/dev/frontend/public/tests/views/BulkMentionView.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/views/BulkMentionView.js",
+		"/Users/jamesd/dev/frontend/public/vendor/slickgrid/tests/scrolling benchmarks.html",
+		"/Users/jamesd/dev/frontend/public/vendor/ace-mode-brandwatch/src/brandwatch_mode.js",
+		"/Users/jamesd/dev/frontend/testem",
+		"/Users/jamesd/dev/frontend/testServer.js",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalCardView.js",
+		"/Users/jamesd/dev/frontend/public/tests/models/fixtures/mentions.fixtures.js",
+		"/Users/jamesd/dev/frontend/public/tests/views/SignalCardMentionsListView.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/templates/mentionStreamItem.template",
+		"/Users/jamesd/dev/frontend/public/src/views/MentionsSnippetsView.js",
+		"/Users/jamesd/dev/frontend/public/src/extensions/livestreams/views/MentionStreamItemView.js",
+		"/Users/jamesd/dev/frontend/public/src/helpers/signalsMentionsHelper.js",
+		"/Users/jamesd/dev/frontend/public/src/helpers/signals/signalsCardsDataBuilder.js",
+		"/Users/jamesd/dev/frontend/public/tests/SignalsBubblesChart.fixtures.js",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalCardMentionsListView.js",
+		"/Users/jamesd/dev/frontend/public/templates/signals/signalCardView.template",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalCardListView.js",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesChart.js",
+		"/Users/jamesd/dev/frontend/public/tests/SignalsBubblesChart.tests.js",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesViewController.js",
+		"/Users/jamesd/dev/frontend/public/css/signalsCard.css",
+		"/Users/jamesd/dev/frontend/test/loginForm/hsbcThemeSpec.js",
+		"/Users/jamesd/dev/frontend/node_modules/testem/node_modules/socket.io/node_modules/socket.io-client/bin/builder.js",
+		"/Users/jamesd/dev/frontend/node_modules/bw-requirejs-plugins/builders/jsBuilder.js",
+		"/Users/jamesd/dev/frontend/build.sh",
+		"/Users/jamesd/dev/frontend/node_modules/bower/node_modules/inquirer/lib/ui/baseUI.js",
+		"/Users/jamesd/dev/frontend/bower.json",
+		"/Users/jamesd/dev/frontend/node_modules/sinon/pkg/sinon-ie.js",
+		"/Users/jamesd/dev/frontend/public/help/filters-xtag.html",
+		"/Users/jamesd/dev/frontend/controllers/FavIconController.js",
+		"/Users/jamesd/dev/frontend/forever.sh",
+		"/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesView.ignore.js",
+		"/Users/jamesd/dev/frontend/public/css/signalsBubblesChart.css",
+		"/Users/jamesd/dev/frontend/public/themes/socialcirque/img/original/login-background.eps"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jamesd/dev/frontend,-/Users/jamesd/dev/frontend/node*,-/Users/jamesd/dev/frontend/public/vendor*",
+			"/Users/jamesd/dev/frontend/public/tests/extensions/reports",
+			"/Users/jamesd/dev/frontend,-/Users/jamesd/dev/frontend/node*,-/Users/jamesd/dev/frontend/public/vendor*",
+			"/Users/jamesd/dev/frontend,-/Users/jamesd/dev/frontend/node*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"collection.fetch",
+			"getSettingsForSignal",
+			"settings",
+			"bindToChartEvents",
+			"showMentionsPopup",
+			"settings",
+			"mentionListView",
+			"signal",
+			"node",
+			".signalsBubble",
+			"recalculateForceAndGravity",
+			"resizeChart",
+			"this",
+			"recalculateForceAndGravity",
+			"resizeChart",
+			"resizeEventHandler",
+			"recalculateForceAndGravity",
+			"resizeChart",
+			"resizeEventHandler",
+			"recalculateForceAndGravity",
+			"calledWith",
+			"eventMap",
+			"e",
+			"getNodeForSignalId",
+			"activateSelectedSignalMode",
+			"event.currentTarget",
+			"resizeEventHandler",
+			"height",
+			"            it('should throw an error if options.height and options.width are not provided', function() {\n                try {\n                    signalsBubblesChart = new SignalsBubblesChart();\n                } catch(e){\n                    expect(e.message).toEqual('options should contain both height and width properties');\n                }\n            });\n",
+			"mentionListView",
+			"url",
+			"+        // ",
+			"author-or-domain",
+			".stream-item",
+			"showMentions",
+			"fetchMentions",
+			"Collection",
+			"collection",
+			"Collection",
+			"collection",
+			"charge",
+			"asign",
+			"card",
+			"a given",
+			"getCardBySignalId",
+			"$cardToSelect",
+			"hash",
+			"cardView",
+			"settings",
+			"to",
+			"only adds required properties to card data",
+			"mentionstream",
+			"signalCardListView",
+			"getColour",
+			"sparkline",
+			"this",
+			"js-card",
+			"clickedNode",
+			"signal",
+			"Signal",
+			"signal",
+			"Signal",
+			"signal",
+			"'.node:not(.deselected):not(.selected)'",
+			"node:not(.deselected)",
+			"node",
+			"scale(1.2, 1.2)",
+			"signalsBubblesChart",
+			"hover",
+			"class",
+			"addclass",
+			"cardToContract",
+			"CARD_HEIGHT_INC_SINGLE_PADDING",
+			"calculateTranslateYValue",
+			"extend",
+			"cardToExpand",
+			"extend",
+			"extended",
+			"'extended'",
+			"view",
+			"fals",
+			"var ",
+			"expand",
+			"data",
+			"expanded",
+			"selectedCards",
+			"this",
+			"signalCardView",
+			"this",
+			"window",
+			"resize",
+			"throw",
+			"dispatch",
+			"chart.resizeTimeout",
+			" method on TabView when window resize event received",
+			"firstGroup",
+			"show",
+			"setupEvents",
+			"click",
+			");",
+			"events",
+			"setup",
+			"                    signalsBubblesChart.render(signalsBubblesChartFixtures.chartData);\n",
+			"signalsBubblesChartDataFilterSpy",
+			"};",
+			"this",
+			"data",
+			"chart.",
+			"resizeChart",
+			"dirtyData",
+			"data",
+			"        function setupFakeBubblesCardList() {\n            FakeSignalsBubblesCardList = function() {\n                fakeCardListInstance = this;\n            };\n            _.extend(FakeSignalsBubblesCardList.prototype, Backbone.Events);\n\n            FakeSignalsBubblesCardList.prototype.render = sandbox.stub();\n\n            fakeSignalsBubblesCardListSpy = sandbox.spy(FakeSignalsBubblesCardList);\n            bogus.stub('src/SignalsBubblesCardList', fakeSignalsBubblesCardListSpy);\n        }\n\n",
+			"    'src/helpers/signals/signalsBubbleChartDataParser'\n",
+			"fakeCardListInstance",
+			"SignalsBubblesViewController",
+			"signalsBubblesViewController",
+			"SignalsBubblesViewController",
+			"SignalsBubblesViewControllerSpy",
+			"SignalsBubblesViewController",
+			"signalsBubblesViewController",
+			"SignalsBubblesViewController",
+			"signalsBubblesViewController",
+			"SignalsBubblesViewController",
+			"signalsBubblesViewController",
+			"it(",
+			"SignalsBubbles",
+			"signalsBubbles",
+			"                expect(signalsBubblesViewController.signalsBubblesChart).toEqual(fakeChartInstance);\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"node",
+			"firstNode",
+			"limitDataToMaxSignals",
+			"",
+			"'",
+			"(\"",
+			"(",
+			"\n    ",
+			"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jamesd/dev/frontend/public/src/views/SignalCardMentionsListView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jamesd/dev/frontend/public/src/helpers/signalsMentionsHelper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1262,
+								1262
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jamesd/dev/frontend/public/src/models/MentionCollection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								615
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jamesd/dev/frontend/public/src/views/SignalsBubblesChart.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/jamesd/dev/frontend/public/src/views/SignalCardView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2237,
+								2217
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/jamesd/dev/frontend/public/tests/views/SignalCardMentionsListView.tests.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1292,
+								1292
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 236.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "/Users/jamesd/dev/proj/frontend.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"signalsmentionshelper",
+				"public/src/helpers/signalsMentionsHelper.js"
+			],
+			[
+				"datamethods",
+				"public/src/models/DataMethods.js"
+			],
+			[
+				"datacollection",
+				"public/src/models/DataCollection.js"
+			],
+			[
+				"componentview",
+				"public/src/views/ComponentView.js"
+			],
+			[
+				"sbc",
+				"public/src/views/SignalsBubblesChart.js"
+			],
+			[
+				"mentioncollection",
+				"public/src/models/MentionCollection.js"
+			],
+			[
+				"signal.fixtures",
+				"public/tests/models/fixtures/signals.fixtures.js"
+			],
+			[
+				"/models/fixtures/signal.fixtures",
+				"public/tests/models/fixtures/signals.fixtures.js"
+			],
+			[
+				"sc",
+				"public/src/views/SignalCardView.js"
+			],
+			[
+				"signalcardmentionslistview.tests.js",
+				"public/tests/views/SignalCardMentionsListView.tests.js"
+			],
+			[
+				"scmlvtest",
+				"public/tests/views/SignalCardMentionsListView.tests.js"
+			],
+			[
+				"",
+				"public/src/views/SignalCardMentionsListView.js"
+			],
+			[
+				"scml",
+				"public/src/views/SignalCardMentionsListView.js"
+			],
+			[
+				"public/src/views/signalcardview.js",
+				"public/src/views/SignalCardView.js"
+			],
+			[
+				"sbv",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbct",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"sbch",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"sbvc",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbvi",
+				"public/src/views/SignalsBubblesView.js"
+			],
+			[
+				"signalsbubbleschart",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"sbchar",
+				"public/src/views/SignalsBubblesChart.js"
+			],
+			[
+				"public/tests/views/signalcardmentionslistview.tests.js",
+				"public/tests/views/SignalCardMentionsListView.tests.js"
+			],
+			[
+				"public/src/views/signalcardmentionslistview.js",
+				"public/src/views/SignalCardMentionsListView.js"
+			],
+			[
+				"signalcardmentionslistview.js",
+				"public/src/views/SignalCardMentionsListView.js"
+			],
+			[
+				"sigbuilder",
+				"public/src/helpers/signals/signalsCardsDataBuilder.js"
+			],
+			[
+				"sigfix",
+				"public/tests/models/fixtures/signals.fixtures.js"
+			],
+			[
+				"signalbuild",
+				"public/src/helpers/signals/signalsCardsDataBuilder.js"
+			],
+			[
+				"sccss",
+				"public/css/signalsCard.css"
+			],
+			[
+				"livestreams.css",
+				"public/src/extensions/livestreams/css/liveStreams.css"
+			],
+			[
+				"scv.",
+				"public/src/views/SignalCardView.js"
+			],
+			[
+				"mention",
+				"public/src/views/MentionsSnippetsView.js"
+			],
+			[
+				"mentionstr",
+				"public/src/extensions/livestreams/templates/mentionStreamItem.template"
+			],
+			[
+				"mentionstreamitemview",
+				"public/src/extensions/livestreams/views/MentionStreamItemView.js"
+			],
+			[
+				"scm",
+				"public/src/views/SignalCardMentionsListView.js"
+			],
+			[
+				"scv",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"cardtemplate",
+				"public/templates/signals/signalCardView.template"
+			],
+			[
+				"sbvct",
+				"public/tests/views/SignalsBubblesViewController.tests.js"
+			],
+			[
+				"signalsbubblesviewcontroller",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"mentioncol",
+				"public/src/models/MentionCollection.js"
+			],
+			[
+				"mentionfix",
+				"public/tests/models/fixtures/mentions.fixtures.js"
+			],
+			[
+				"scmvt",
+				"public/tests/views/SignalCardMentionsListView.tests.js"
+			],
+			[
+				"scvt",
+				"public/tests/views/SignalCardView.tests.js"
+			],
+			[
+				"scl",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"sclv",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"public/src/signalsbubblescardlist.js",
+				"public/src/SignalsBubblesCardList.js"
+			],
+			[
+				"sclt",
+				"public/tests/views/SignalCardListView.tests.js"
+			],
+			[
+				"sclvt",
+				"public/tests/views/SignalCardListView.tests.js"
+			],
+			[
+				"signalcardlistview.tests.js",
+				"public/tests/views/SignalCardListView.tests.js"
+			],
+			[
+				"signalcardview.tests.js",
+				"public/tests/views/SignalCardView.tests.js"
+			],
+			[
+				"signalcardlistview.js",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"sfixtures",
+				"public/tests/models/fixtures/signals.fixtures.js"
+			],
+			[
+				"scbt",
+				"public/tests/helpers/signals/signalsCardsDataBuilder.tests.js"
+			],
+			[
+				"scardsbt",
+				"public/tests/helpers/signals/signalsCardsDataBuilder.tests.js"
+			],
+			[
+				"sigbuild",
+				"public/src/helpers/signals/signalsCardsDataBuilder.js"
+			],
+			[
+				"mentcol",
+				"public/src/models/MentionCollection.js"
+			],
+			[
+				"svtem",
+				"public/templates/signals/signalCardView.template"
+			],
+			[
+				"carview",
+				"public/src/views/SignalCardView.js"
+			],
+			[
+				"clisv",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"signalscardsdatabuilder.tests.js",
+				"public/tests/helpers/signals/signalsCardsDataBuilder.tests.js"
+			],
+			[
+				"signal.fix",
+				"public/tests/models/fixtures/signals.fixtures.js"
+			],
+			[
+				"scdbt",
+				"public/tests/helpers/signals/signalsCardsDataBuilder.tests.js"
+			],
+			[
+				"spar",
+				"public/lib/d3helpers/sparkline.js"
+			],
+			[
+				"mestrev",
+				"public/src/extensions/livestreams/views/MentionStreamView.js"
+			],
+			[
+				"mentions",
+				"public/src/extensions/livestreams/templates/mentionStreamItem.template"
+			],
+			[
+				"scardc",
+				"public/css/signalsCard.css"
+			],
+			[
+				"scard",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"scardcss",
+				"public/css/signalsCard.css"
+			],
+			[
+				"scardtem",
+				"public/templates/signals/signalCardView.template"
+			],
+			[
+				"signalsbubblesviewcontroller.js",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sigcard",
+				"public/css/signalsCard.css"
+			],
+			[
+				"sbccs",
+				"public/css/signalsBubblesChart.css"
+			],
+			[
+				"public/src/views/signalcardlistview.js",
+				"public/src/views/SignalCardListView.js"
+			],
+			[
+				"sbvcss",
+				"public/css/signalsBubblesView.css"
+			],
+			[
+				"scarcss",
+				"public/css/signalsCard.css"
+			],
+			[
+				"mod",
+				"lib/modules.js"
+			],
+			[
+				"signalscardsdataparser",
+				"public/src/helpers/signals/signalsCardsDataParser.js"
+			],
+			[
+				"signalsbubblesdatafilter",
+				"public/src/helpers/signals/signalsBubblesDataFilter.js"
+			],
+			[
+				"vendjquery",
+				"public/vendor/jquery/jquery.js"
+			],
+			[
+				"jquery.event.drag-2.2.js",
+				"public/lib/jquery.event.drag-2.2.js"
+			],
+			[
+				"jquery.js",
+				"node_modules/hogan.js/test/jquery.js"
+			],
+			[
+				"sbcte",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"signbvc",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbvco",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbcol",
+				"public/src/models/SignalsBubblesCollection.js"
+			],
+			[
+				"sbcar",
+				"public/src/views/SignalsBubblesChart.js"
+			],
+			[
+				"sb",
+				"public/src/views/SignalsBubblesView.js"
+			],
+			[
+				"signalsbubbleschart.js",
+				"public/src/SignalsBubblesChart.js"
+			],
+			[
+				"chart.test",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"signalsbubblesviewcontroller.tests.js",
+				"public/tests/views/SignalsBubblesViewController.tests.js"
+			],
+			[
+				"signalsbubblescardlist",
+				"public/src/SignalsBubblesCardList.js"
+			],
+			[
+				"sbvcot",
+				"public/tests/views/SignalsBubblesViewController.tests.js"
+			],
+			[
+				"apvc",
+				"public/src/views/authorprofiles/AuthorProfilesViewController.js"
+			],
+			[
+				"sbvtest",
+				"public/tests/views/SignalsBubblesView.tests.js"
+			],
+			[
+				"sbchart",
+				"public/tests/SignalsBubblesChart.tests.js"
+			],
+			[
+				"sbcom",
+				"public/css/signalsBubblesComponent.css"
+			],
+			[
+				"sbcss",
+				"public/css/signalsBubblesChart.css"
+			],
+			[
+				"bchart",
+				"public/src/SignalsBubblesChart.js"
+			],
+			[
+				"sbvcon",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"aprolist",
+				"public/src/views/authorprofiles/AuthorListView.js"
+			],
+			[
+				"sbvt",
+				"public/tests/views/SignalsBubblesView.tests.js"
+			],
+			[
+				"signalsbubblescardlist.js",
+				"public/src/SignalsBubblesCardList.js"
+			],
+			[
+				"apvt",
+				"public/tests/views/authorprofiles/AuthorProfilesViewController.tests.js"
+			],
+			[
+				"menhel",
+				"public/src/helpers/signalsMentionsHelper.js"
+			],
+			[
+				"sbp",
+				"public/src/helpers/signals/signalsBubbleChartDataParser.js"
+			],
+			[
+				"sbvf",
+				"public/tests/SignalsBubblesView.fixtures.js"
+			],
+			[
+				"sibchar",
+				"public/src/SignalsBubblesChart.js"
+			],
+			[
+				"apv",
+				"public/src/views/authorprofiles/AuthorProfilesViewController.js"
+			],
+			[
+				"authpro",
+				"public/src/views/authorprofiles/AuthorProfilesViewController.js"
+			],
+			[
+				"signalsbubblesview.tests.js",
+				"public/tests/views/SignalsBubblesView.tests.js"
+			],
+			[
+				"signalsbubblechartdataparser",
+				"public/src/helpers/signals/signalsBubbleChartDataParser.js"
+			],
+			[
+				"sigbv",
+				"public/tests/SignalsBubblesView.fixtures.js"
+			],
+			[
+				".ignore.js",
+				"public/tests/views/SignalsBubblesViewController.tests.ignore.js"
+			],
+			[
+				"public/src/views/signalsbubblesviewcontroller.js",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbcpm",
+				"public/tests/components/SignalsBubblesComponent.tests.js"
+			],
+			[
+				"sigb",
+				"public/src/SignalsBubblesChart.js"
+			],
+			[
+				"sbvfix",
+				"public/tests/SignalsBubblesView.fixtures.js"
+			],
+			[
+				"sigbvewco",
+				"public/tests/views/SignalsBubblesViewController.tests.js"
+			],
+			[
+				"apvcon",
+				"public/src/views/authorprofiles/AuthorProfilesViewController.js"
+			],
+			[
+				"alv",
+				"public/src/views/authorprofiles/AuthorListView.js"
+			],
+			[
+				"/signalsbubblesviewcontroller.js",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"sbview",
+				"public/src/views/SignalsBubblesView.js"
+			],
+			[
+				"sbcon",
+				"public/src/views/SignalsBubblesViewController.js"
+			],
+			[
+				"tweetersprofilesview",
+				"public/src/views/TweetersProfilesView.js"
+			],
+			[
+				"tweep",
+				"public/tests/views/TweetersProfilesView.tests.js"
+			],
+			[
+				"signalsbubblesview.fixtures",
+				"public/tests/SignalsBubblesView.fixtures.js"
+			],
+			[
+				"tweepro",
+				"public/tests/views/TweetersProfilesView.tests.js"
+			],
+			[
+				"tpvt",
+				"public/tests/views/TwitterProfileView.tests.js"
+			],
+			[
+				"componv",
+				"public/src/views/ComponentView.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 1223.0
+	},
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "scrol",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "H",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/jamesd/dev/frontend/public/tests/views"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
