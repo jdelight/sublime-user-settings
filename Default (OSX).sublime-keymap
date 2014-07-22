@@ -6,5 +6,13 @@
             { "key": "setting.command_mode", "operand": false },
             { "key": "setting.is_widget", "operand": false }
         ]
-    }
+    },
+    { "keys": ["shift+super+up"], "command": "swap_line_up" },
+    { "keys": ["shift+super+down"], "command": "swap_line_down" },
+
+    { "keys": ["ctrl+g"], "command": "find_under_expand" },
+    { "keys": ["ctrl+k", "ctrl+g"], "command": "find_under_expand_skip" },
+
+    { "keys": ["super+d"], "command": "duplicate_line" },
+
 ]
