@@ -3,8 +3,8 @@
 
     { "keys": ["j", "k"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] },
 
-    { "keys": ["shift+super+up"], "command": "swap_line_up" },
-    { "keys": ["shift+super+down"], "command": "swap_line_down" },
+    { "keys": ["shift+alt+up"], "command": "swap_line_up" },
+    { "keys": ["shift+alt+down"], "command": "swap_line_down" },
 
     { "keys": ["ctrl+g"], "command": "find_under_expand" },
     { "keys": ["ctrl+k", "ctrl+g"], "command": "find_under_expand_skip" },
