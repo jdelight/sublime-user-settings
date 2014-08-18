@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -17,6 +17,7 @@
 	],
 	"tab_completion": false,
 	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
